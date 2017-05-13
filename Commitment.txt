@@ -1,0 +1,3 @@
+13. maj 2017.
+Postavio sam neki glupavi sajt koji sam imao na kompu na google drive da mozemo da ga menjamo.
+Gledacu da postavim isti i na Github pa da vidimo kakva je razlika izmedju ova dva repositorijuma.
